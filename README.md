@@ -134,5 +134,7 @@ Grace handling for poor connectivity
 Appeal mechanisms for rejected claims
 
 “Our system doesn’t just verify location — it verifies reality.”
+
+
 TECH STACK:
 HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, REST APIs, Machine Learning, Python, Weather API, Geolocation API, Sensor Data Processing, Anomaly Detection, Git, GitHub, Deployment (Netlify/Render)
